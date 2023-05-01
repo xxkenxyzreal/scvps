@@ -19,25 +19,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/ssh"
+akbarvpn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/ssh"
 # Link Hosting Kalian Untuk Sstp
-akbarvpnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/sstp"
+akbarvpnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/sstp"
 # Link Hosting Kalian Untuk Ssr
-akbarvpnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/ssr"
+akbarvpnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-akbarvpnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/shadowsocks"
+akbarvpnnnn="raw.githubusercontent.com/scvps/tree/main/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-akbarvpnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/wireguard"
-# Link Hosting Kalian Untuk Xray
-akbarvpnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/xray"
+akbarvpnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/wireguard"
+# Link Hosting Kalian Untuk Xrayk
+akbarvpnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/xray"
 # Link Hosting Kalian Untuk Ipsec
-akbarvpnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/ipsec"
+akbarvpnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/ipsec"
 # Link Hosting Kalian Untuk Backup
-akbarvpnnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/backup"
+akbarvpnnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/backup"
 # Link Hosting Kalian Untuk Websocket
-akbarvpnnnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/websocket"
+akbarvpnnnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/websocket"
 # Link Hosting Kalian Untuk Ohp
-akbarvpnnnnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/main/ohp"
+akbarvpnnnnnnnnnn="raw.githubusercontent.com/xxkenxyzreal/scvps/tree/main/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
